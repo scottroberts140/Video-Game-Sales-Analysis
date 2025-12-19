@@ -45,3 +45,4 @@ backup/
 *.backup
 *-backup*.ipynb
 .DS_Store
+refactor_notebook.py
