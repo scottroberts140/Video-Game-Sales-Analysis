@@ -44,3 +44,4 @@ Thumbs.db
 backup/
 *.backup
 *-backup*.ipynb
+.DS_Store
